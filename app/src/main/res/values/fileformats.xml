@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fileformats">
+        <item>MP4</item>
+        <item>M4A</item>
+    </string-array>
+</resources>
